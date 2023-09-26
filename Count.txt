@@ -8,6 +8,7 @@ No of Userstory you have done - 58*3 = 170 Approx. (No of sprint * Avg 3 usersto
 No of Userstories in the project - 58*8= 470 Approx. (No of sprint * Avg 8 userstories per sprint)
 No of Defect You Raised - 170*4 = 650 Approx. (No of Userstories you worked * Avg 4 defects per userstory)
 No of Test casesd You created - 170*5 = 800 Approx. (No of Userstories you worked * Avg 5 test cases per userstory)
+5.hiding the last seen 
 
 4 Years
 ---------

@@ -1,0 +1,33 @@
+3 Years
+--------
+Manual - 6 Months - Waterfall Model
+
+Automation - 2 Years 6 Months - Agile Model
+No of Sprint completed - 58 Approx. (1 Sprint = 2 weeks then for 1 month 2 Sprints and for 1 year 24 Sprint, So for 2.6 years = 60 Sprints)
+No of Userstory you have done - 58*3 = 170 Approx. (No of sprint * Avg 3 userstories per sprint)
+No of Userstories in the project - 58*8= 470 Approx. (No of sprint * Avg 8 userstories per sprint)
+No of Defect You Raised - 170*4 = 650 Approx. (No of Userstories you worked * Avg 4 defects per userstory)
+No of Test casesd You created - 170*5 = 800 Approx. (No of Userstories you worked * Avg 5 test cases per userstory)
+
+4 Years
+---------
+Manual - 1 Year - Waterfall Model
+
+Automation - 3 Years - Agile Model
+No of Sprint completed - 69 Approx. (1 Sprint = 2 weeks then for 1 month 2 Sprints and for 1 year 24 Sprint, So for 3 years = 72 Sprints)
+No of Userstory you have done - 69*3 = 200 Approx. (No of sprint * Avg 3 userstories per sprint)
+No of Userstories in the project - 69*8= 550 Approx. (No of sprint * Avg 8 userstories per sprint)
+No of Defect You Raised - 200*4 = 800 Approx. (No of Userstories you worked * Avg 4 defects per userstory)
+No of Test casesd You created - 200*5 = 950 Approx. (No of Userstories you worked * Avg 5 test cases per userstory)
+
+
+5 Years
+--------
+Manual - 1 Years 6 Months - Waterfall Model
+
+Automation - 3 Years 6 Months - Agile Model
+No of Sprint completed - 80 Approx. (1 Sprint = 2 weeks then for 1 month 2 Sprints and for 1 year 24 Sprint, So for 2.6 years = 82 Sprints)
+No of Userstory you have done - 80*3 = 250 Approx. (No of sprint * Avg 3 userstories per sprint)
+No of Userstories in the project - 80*8= 650 Approx. (No of sprint * Avg 8 userstories per sprint)
+No of Defect You Raised - 250*4 = 950 Approx. (No of Userstories you worked * Avg 4 defects per userstory)
+No of Test casesd You created - 250*5 = 1300 Approx. (No of Userstories you worked * Avg 5 test cases per userstory)

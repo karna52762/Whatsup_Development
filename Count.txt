@@ -10,6 +10,8 @@ No of Defect You Raised - 170*4 = 650 Approx. (No of Userstories you worked * Av
 No of Test casesd You created - 170*5 = 800 Approx. (No of Userstories you worked * Avg 5 test cases per userstory)
 5.hiding the last seen 
 6.see the status
+7. adding the video
+8.adding the audio 
 
 4 Years
 ---------

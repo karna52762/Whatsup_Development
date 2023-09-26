@@ -13,6 +13,7 @@ No of Test casesd You created - 170*5 = 800 Approx. (No of Userstories you worke
 7. adding the video
 8.adding the audio 
 9.adding status so that user can lay train gamie
+10. grouping feature in 100 users
 
 4 Years
 ---------
